@@ -1,12 +1,3 @@
-### Campaign Performance
-![Campaign Performance](images/Campaign%20Prformance.png)
-
-### Buyer Composition
-![Buyer Composition](images/Buyers%20Composition.png)
-
-### Purchase Drivers
-![Purchase Drivers](images/Purchase%20Drivers.png)
-
 # 📊 Glare Metrics – Power BI Dashboard
 Project Overview
 
@@ -69,3 +60,13 @@ Evaluated growth patterns
 ✔ Dashboard Design
 
 ✔ Business Intelligence Reporting
+
+### Campaign Performance
+![Campaign Performance](images/Campaign%20Prformance.png)
+
+### Buyer Composition
+![Buyer Composition](images/Buyers%20Composition.png)
+
+### Purchase Drivers
+![Purchase Drivers](images/Purchase%20Drivers.png)
+
