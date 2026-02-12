@@ -7,5 +7,3 @@
 ### Purchase Drivers
 ![Purchase Drivers](images/Purchase%20Drivers.png)
 
-### Dashboard Overview
-![Dashboard Overview](images/dashboard-overview.png)
