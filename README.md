@@ -35,14 +35,6 @@ Category Breakdown
 
 Drill-through functionality
 
-🔹 Dashboard Preview
-
-📌 Campaign Performance
-
-📌 Buyer Composition
-
-📌 Purchase Drivers
-
 🔹 Business Insights
 
 Identified top revenue contributing segments
@@ -60,6 +52,8 @@ Evaluated growth patterns
 ✔ Dashboard Design
 
 ✔ Business Intelligence Reporting
+
+🔹 Dashboard Preview
 
 ### Campaign Performance
 ![Campaign Performance](images/Campaign%20Prformance.png)
