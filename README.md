@@ -1,2 +1,6 @@
-# sales-marketing-analytics-powerbi
-Interactive Power BI dashboard analyzing sales and marketing performance using DAX and data modeling.
+### Buyer Composition.png
+![Buyer Composition](images/Buyer Composition.png)
+### Campaign Prformance.png
+![Campaign Prformance](images/Campaign Performance.png
+### Purchase Drivers.png
+![Purchase Drivers](images/Purchase Drivers.png)
